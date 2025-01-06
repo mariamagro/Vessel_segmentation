@@ -1,6 +1,6 @@
 # Vessel_segmentation
 
-This project was made in collaboration with [mariamagro](https://github.com/mariamagro), for the Computer vision subject.
+This project was made in collaboration with [MarinaGRey](https://github.com/MarinaGRey), for the Computer vision subject.
 
 This project performs image segmentation using either a thresholding or clustering method. It uses several image processing techniques provided by the `scikit-image` and `scikit-learn` libraries, along with metrics to evaluate the segmentation quality.
 
